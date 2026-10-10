@@ -13,6 +13,11 @@ Estudo Ciência da Computação na Unifran e construo aplicativos com React, Typ
 
 `React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Node.js` · `Supabase` · `Python (básico)` · `Git`
 
+## Formação
+
+- **Ciência da Computação** — Universidade de Franca (Unifran), 4º período.
+- **Informática** — Netmedia, curso de 11 meses.
+
 ## Projetos
 
 Os projetos entram aqui, fixados no perfil, um de cada vez. Cada um com README, passo a passo para rodar e demonstração.
