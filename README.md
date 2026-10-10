@@ -18,6 +18,10 @@ Estudo Ciência da Computação na Unifran e construo aplicativos com React, Typ
 - **Ciência da Computação** — Universidade de Franca (Unifran), 4º período.
 - **Informática** — Netmedia, curso de 11 meses.
 
+## Contato
+
+[LinkedIn — Murilo Rodrigues](https://www.linkedin.com/in/murilo-rodrigues-8a3528442/)
+
 ## Projetos
 
 Os projetos entram aqui, fixados no perfil, um de cada vez. Cada um com README, passo a passo para rodar e demonstração.
